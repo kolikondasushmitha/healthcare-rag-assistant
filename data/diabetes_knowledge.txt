@@ -1,0 +1,118 @@
+1. Definition
+
+Diabetes mellitus is a chronic metabolic disorder characterized by persistent high blood glucose (hyperglycemia) due to defects in insulin secretion, insulin action, or both. Glucose is the primary source of energy for the body, and its regulation is essential for normal functioning.
+
+2. Role of Insulin and Glucose Metabolism
+Insulin is a hormone secreted by the pancreatic beta cells.
+It helps glucose move from the bloodstream into cells (muscle, fat, liver).
+In diabetes:
+Either insulin is absent (Type 1)
+Or cells become resistant to insulin (Type 2)
+This leads to glucose accumulation in the blood.
+3. Types of Diabetes
+3.1 Type 1 Diabetes
+Autoimmune destruction of pancreatic beta cells
+Absolute insulin deficiency
+Usually occurs in children or young adults
+Requires lifelong insulin therapy
+3.2 Type 2 Diabetes
+Combination of insulin resistance and relative insulin deficiency
+Most common form (90–95% cases)
+Strongly associated with lifestyle and genetics
+Gradual onset, often undiagnosed for years
+3.3 Gestational Diabetes
+Occurs during pregnancy due to hormonal changes
+Increases risk of complications for mother and baby
+May lead to Type 2 diabetes later in life
+3.4 Prediabetes
+Intermediate stage where blood glucose is higher than normal
+High risk of progressing to Type 2 diabetes
+4. Pathophysiology (What Happens in the Body)
+Type 1:
+Immune system attacks beta cells
+No insulin production → glucose cannot enter cells
+Leads to energy deficiency and fat breakdown (ketone production)
+Type 2:
+Cells become resistant to insulin
+Pancreas compensates by producing more insulin
+Over time, beta cells become dysfunctional → reduced insulin
+5. Symptoms (Clinical Presentation)
+Early Symptoms:
+Polyuria (frequent urination)
+Polydipsia (excessive thirst)
+Polyphagia (increased hunger)
+Other Symptoms:
+Fatigue
+Blurred vision
+Slow wound healing
+Frequent infections
+Severe (especially Type 1):
+Weight loss
+Ketoacidosis (life-threatening condition)
+6. Diagnosis
+Tests and Criteria:
+Fasting Plasma Glucose (FPG) ≥ 126 mg/dL
+Random Plasma Glucose ≥ 200 mg/dL with symptoms
+HbA1c ≥ 6.5%
+Oral Glucose Tolerance Test (OGTT) ≥ 200 mg/dL after 2 hours
+7. Acute Complications
+7.1 Hypoglycemia (Low Blood Sugar)
+Caused by excess insulin or missed meals
+Symptoms:
+Sweating
+Shaking
+Confusion
+Loss of consciousness
+7.2 Hyperglycemia (High Blood Sugar)
+Caused by lack of insulin or poor control
+Leads to:
+Diabetic Ketoacidosis (DKA) (Type 1)
+Hyperosmolar Hyperglycemic State (HHS) (Type 2)
+8. Chronic Complications
+8.1 Microvascular
+Retinopathy → vision loss
+Nephropathy → kidney failure
+Neuropathy → nerve damage
+8.2 Macrovascular
+Cardiovascular disease (heart attack)
+Stroke
+Peripheral artery disease
+9. Management
+9.1 Lifestyle Modifications
+Balanced diet (low glycemic index foods)
+Regular physical activity (150 min/week)
+Weight management
+9.2 Medications
+Oral drugs (e.g., metformin)
+Insulin injections
+Newer therapies (GLP-1 agonists, SGLT2 inhibitors)
+9.3 Monitoring
+Self-monitoring of blood glucose (SMBG)
+Continuous glucose monitoring (CGM)
+Regular HbA1c testing
+10. Diet and Nutrition
+Recommended:
+Whole grains
+Leafy vegetables
+Lean protein
+Healthy fats
+High fiber foods
+Avoid:
+Sugary beverages
+Refined carbohydrates
+Processed foods
+Excess salt and saturated fats
+11. Prevention (Mainly Type 2)
+Maintain healthy BMI
+Regular exercise
+Balanced nutrition
+Avoid smoking and alcohol abuse
+Early screening in high-risk individuals
+12. Special Considerations
+Foot care is critical (to prevent ulcers/amputation)
+Regular eye and kidney check-ups
+Mental health support (chronic disease burden)
+13. Global Impact
+Diabetes is a major public health issue
+Increasing prevalence due to sedentary lifestyle and obesity
+Significant cause of morbidity and mortality worldwide
